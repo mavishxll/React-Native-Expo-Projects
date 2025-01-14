@@ -1,5 +1,5 @@
 ## React Native/Expo Projects
-<img src="assets/favicon.png">
+<img src="Starcatcher/assets/favicon.png">
 
 React Native/Expo Application Examples
 
