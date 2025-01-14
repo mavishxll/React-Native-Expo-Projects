@@ -1,5 +1,5 @@
 ## React Native/Expo Projects
-<img src="Starcatcher/assets/favicon.png">
+<p align="center"><img src="Starcatcher/assets/favicon.png"></p>
 
 ### Steps for Execution
 <b>1.</b> Install the Expo CLI by running this command in your Bash/Terminal: `npm install -g expo-cli`.<br><br>
