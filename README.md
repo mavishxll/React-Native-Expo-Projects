@@ -1,7 +1,7 @@
-## Starcatcher
+## React Native/Expo Projects
 <img src="assets/favicon.png">
 
-Expo Web game
+React Native/Expo Application Examples
 
 ### Steps for Execution
 - Create a new Expo project by entering the following command in Bash/Terminal: npx create-expo-app ProjectName --template expo-template-blank-typescript
